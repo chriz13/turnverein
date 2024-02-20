@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Allgemein &#8211; MTV Dachsen</title>
-	<atom:link href="http://localhost/category/allgemein/feed/?simply_static_page=26562" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/category/allgemein/feed/?simply_static_page=27755" rel="self" type="application/rss+xml" />
 	<link>https://lupohund.ch/</link>
 	<description></description>
 	<lastBuildDate>Mon, 29 Jan 2024 15:00:52 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
 	<url>https://lupohund.ch/wp-content/uploads/2024/01/mtvrund2-150x150.png</url>

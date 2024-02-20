@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Kommentare für MTV Dachsen	</title>
-	<atom:link href="http://localhost/comments/feed/?simply_static_page=26522" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/comments/feed/?simply_static_page=27715" rel="self" type="application/rss+xml" />
 	<link>https://lupohund.ch/</link>
 	<description></description>
 	<lastBuildDate>Tue, 20 Feb 2024 17:02:44 +0000</lastBuildDate>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 </channel>
 </rss>
