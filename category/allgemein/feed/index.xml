@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Allgemein &#8211; MTV Dachsen</title>
-	<atom:link href="http://localhost/category/allgemein/feed/?simply_static_page=27755" rel="self" type="application/rss+xml" />
-	<link>https://lupohund.ch/</link>
+	<atom:link href="http://localhost/category/allgemein/feed/?simply_static_page=30141" rel="self" type="application/rss+xml" />
+	<link>https://mtv-dachsen.ch/</link>
 	<description></description>
 	<lastBuildDate>Mon, 29 Jan 2024 15:00:52 +0000</lastBuildDate>
 	<language>de-CH</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
-	<url>https://lupohund.ch/wp-content/uploads/2024/01/mtvrund2-150x150.png</url>
+	<url>https://mtv-dachsen.ch/wp-content/uploads/2024/01/mtvrund2-150x150.png</url>
 	<title>Allgemein &#8211; MTV Dachsen</title>
-	<link>https://lupohund.ch/</link>
+	<link>https://mtv-dachsen.ch/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Jahresbericht des Präsidenten zum Vereinsjahr 2023</title>
-		<link>https://lupohund.ch/jahresbericht-des-praesidenten-zum-vereinsjahr-2023/</link>
-					<comments>https://lupohund.ch/jahresbericht-des-praesidenten-zum-vereinsjahr-2023/#respond</comments>
+		<link>https://mtv-dachsen.ch/jahresbericht-des-praesidenten-zum-vereinsjahr-2023/</link>
+					<comments>https://mtv-dachsen.ch/jahresbericht-des-praesidenten-zum-vereinsjahr-2023/#respond</comments>
 		
 		<dc:creator><![CDATA[chris]]></dc:creator>
 		<pubDate>Mon, 29 Jan 2024 15:00:52 +0000</pubDate>
 				<category><![CDATA[Allgemein]]></category>
-		<guid isPermaLink="false">https://lupohund.ch/?p=240</guid>
+		<guid isPermaLink="false">https://mtv-dachsen.ch/?p=240</guid>
 
 					<description><![CDATA[Liebe Männerturner, liebe Heidi Der Jahresbericht beginnt mit dem eigentlichen Kerngeschäft unseres Vereins &#8211; dem montäglichen Turnen.&#160; Unsere drei Vorturner Heidi, Bernd und Christian haben ein weiteres Jahr unsere Beweglichkeit und Fitness verbessert bzw. dazu beitragen, die körperliche Gesundheit auf einem passablen Niveau zu erhalten.&#160; Dafür gebührt ihnen allen ein grosses Dankeschön – verbunden mit [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -90,7 +90,7 @@
 <p>Das Schloss Arenenberg besichtigen oder die Gartenanlage bewundern mochte danach sozusagen niemand. Lieber genoss man einen Kaffee im Hof oder gönnte sich ein Glace in gemütlicher Gesellschaft, was ja letztlich auch der Sinn dieser Rundfahrt war.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://lupohund.ch/jahresbericht-des-praesidenten-zum-vereinsjahr-2023/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mtv-dachsen.ch/jahresbericht-des-praesidenten-zum-vereinsjahr-2023/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
