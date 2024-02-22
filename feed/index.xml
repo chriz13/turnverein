@@ -9,7 +9,7 @@
 
 <channel>
 	<title>MTV Dachsen</title>
-	<atom:link href="http://localhost/feed/?simply_static_page=30100" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/feed/?simply_static_page=31293" rel="self" type="application/rss+xml" />
 	<link>https://mtv-dachsen.ch/</link>
 	<description></description>
 	<lastBuildDate>Mon, 29 Jan 2024 15:00:52 +0000</lastBuildDate>
